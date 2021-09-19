@@ -21,10 +21,6 @@ SF : https://segmentfault.com/u/mercyblitz
 微博：
 
 
-## [我的课程](https://kkzyw.github.io/lessons/)
-
-
-## [《Spring Boot 编程思想》](https://kkzyw.github.io/books/thinking-in-spring-boot/)
 
 
 ## [关于我](https://kkzyw.github.io/about/)
